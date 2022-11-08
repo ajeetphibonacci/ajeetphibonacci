@@ -25,3 +25,14 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetphibonacci)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeetphibonacci&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ajeetphibonacci)  
+
+![GitHub metrics](https://metrics.lecoq.io/ajeetphibonacci)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kishan831)  
+
+![Profile views](https://gpvc.arturio.dev/ajeetphibonacci)  
